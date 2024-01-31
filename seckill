@@ -2352,7 +2352,7 @@
 </head>
 
 <body>
-    <h1>Kill Exploit (by max)</h1>
+    <h1>Kill Exploit </h1>
     <div id="error"></div>
     <div id="draggable" draggable="true">drag this button into a new tab</div>
 </body>
